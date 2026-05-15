@@ -1,0 +1,18 @@
+# Packwiz source files are committed. Downloaded/generated runtime content is not.
+.packwiz/cache/
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar
+
+# Local exports and launcher/runtime output.
+*.mrpack
+*.zip
+run/
+.minecraft/
+logs/
+crash-reports/
+
+# OS/editor noise.
+.DS_Store
+.idea/
+.vscode/
+*.swp
