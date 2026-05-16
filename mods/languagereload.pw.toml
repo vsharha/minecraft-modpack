@@ -1,6 +1,6 @@
 name = "Language Reload"
 filename = "language-reload-1.7.6+26.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/pBt7L8Nq/language-reload-1.7.6%2B26.1.jar"

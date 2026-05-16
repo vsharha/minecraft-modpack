@@ -1,6 +1,6 @@
 name = "Fabrishot"
 filename = "fabrishot-1.17.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/Y8Tsud9e/fabrishot-1.17.0.jar"

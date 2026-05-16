@@ -1,6 +1,6 @@
 name = "Ixeris"
 filename = "Ixeris-4.2.0+26.1.2-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/bcEeGj22/Ixeris-4.2.0%2B26.1.2-fabric.jar"

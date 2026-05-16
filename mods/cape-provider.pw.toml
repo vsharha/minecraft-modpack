@@ -1,6 +1,6 @@
 name = "Cape Provider"
 filename = "cape-provider-5.4.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/orXAsira/versions/2Sq1sgWH/cape-provider-5.4.0.jar"

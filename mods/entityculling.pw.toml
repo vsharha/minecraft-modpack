@@ -1,6 +1,6 @@
 name = "Entity Culling Fabric/Forge"
 filename = "entityculling-fabric-1.10.2-mc26.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DhN0G638/entityculling-fabric-1.10.2-mc26.1.jar"

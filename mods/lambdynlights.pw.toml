@@ -1,6 +1,6 @@
 name = "LambDynamicLights"
 filename = "lambdynamiclights-4.10.2+26.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yBW8D80W/versions/UnhzVQJV/lambdynamiclights-4.10.2%2B26.1.2.jar"
