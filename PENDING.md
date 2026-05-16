@@ -8,9 +8,8 @@
 | Model Gap Fix       | `modelfix`           | client |
 | ModernFix           | `modernfix`          | both   |
 | Carry On            | `carry-on`           | both   |
-| GraveStone Mod      | `gravestone-mod`     | both   |
 | Noisium             | `noisium`            | both   |
-| SleepWarp           | `sleep-warp`         | both   |
-| Sit                 | `sit`                | both   |
+| Seamless Sleep      | `seamless-sleep`     | both   |
+| Gravestones         | `gravestones`        | both   |
 | Simple Voice Chat   | `simple-voice-chat`  | both   |
-| Creative Music      | `creative-music`     | client |
+| Creative Music      | `creative-music`     | resourcepack |

@@ -208,6 +208,11 @@ hash = "156e8688835a92ff6f1a199b77c0f9a16f3d5b15fd9c311cd7dd8a5b1b4d8b4d"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+metafile = true
+
+[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "b4cfd65678e2d07489b41aefc2e126baad29deb4b7e093cbb2116b3c45caa60d"
 metafile = true
