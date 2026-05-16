@@ -42,7 +42,7 @@ hash = "bfaed4a90f4b3b2ddb8fce57a7c4d9d2011a154c7f6bd8f005e79dff8ead6230"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5413fb54d784c0d11ce9b91196a2de7391bd05563113baaf3b4b118ab05f457f"
+hash = "3e05f762553856834288ff0cd9300f0fd2fb13ce896f715390d9d12814537f70"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/be_by.json"
@@ -142,7 +142,7 @@ hash = "b56cdef0c6c127b225f16a4c4f058e0fd6060f9f525a6422c64506ff19711f98"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
-hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+hash = "c973862727ba35dec1de9ef22f333e1257e5f753f72fbcaf17ddefa62bb61b8c"
 
 [[files]]
 file = "config/modpack_defaults/config/midnightlib.json"
@@ -158,7 +158,7 @@ hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
 
 [[files]]
 file = "config/modpack_defaults/config/rrls.toml"
-hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
+hash = "6b44bfd3fc7ee9d8f589425503e2af2748aa274d080f6d270d34cbc1b5604d45"
 
 [[files]]
 file = "config/modpack_defaults/config/sodium-extra-options.json"
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "1b59b3a3e2e7c90d287d498e3407455637626af653f6eb1e8f631e1f8f74e325"
+hash = "be3227e2731d2f21685af51666cfaba85806121861a8d699f481116bd5a8b208"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ hash = "4c5fb2ac89b9df886db3feb77d4c315630126766cf5645a2af995f08ddcebf6c"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d04309459362a81a6f0259a053182dd203915d94b6844f1b99f6db4a6de181e9"
+hash = "2bd1d24982a048c0029a4dc93b7898eda91ed254a84571df2275bc3931475c65"
 metafile = true
 
 [[files]]
