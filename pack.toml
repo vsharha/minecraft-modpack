@@ -1,13 +1,16 @@
 name = "My Fabulously Optimized"
 author = "rikzy75"
-version = "13.2.0-beta.4"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "cbc94049bb082d41d411d087b2a998cd5f6107c27c1590ccb5835808911c5896"
+hash = "39f7f8495af12e91f685555f38ff5700916c157f888a5c865c8c6c6f6aa7fa67"
 
 [versions]
 fabric = "0.19.2"
 minecraft = "26.1.2"
+
+[options]
+acceptable-game-versions = []

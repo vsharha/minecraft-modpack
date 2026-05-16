@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PENDING.md"
+hash = "1e733331fce24a16ea3af5efafcf2b0f2894194bd37d26f9be92b421837bd110"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "ba43173f28b8e7df8abffd144e70361c861483fe811a23f08256f531533e8507"
 
@@ -380,6 +384,16 @@ metafile = true
 [[files]]
 file = "mods/players-drop-heads.pw.toml"
 hash = "3a5f00a753701b27df0302eab3c2d163ec85f28aeb0660ed153723b637c6092a"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "a4d0c8354808a4ecf4894a8e91cda492c5dfdd3fa11e9616240301ca250805e5"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "d8f26cc8a59effaf87c962e888badb9dfe80012273bf338fb592cc02bb5b7b30"
 metafile = true
 
 [[files]]
