@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "PENDING.md"
-hash = "ff54d35533f3b04f1149ec1b51a9bdec3ce8dca64c7c3a447985f96d6c6c3e44"
+hash = "a993ba582d137361734e04c364afbbfa3371d58cc89c5bb47c37210a00f985d5"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
