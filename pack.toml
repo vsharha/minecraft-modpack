@@ -1,4 +1,4 @@
-name = "Fabulously Optimized Edinburgh"
+name = "My Fabulously Optimized"
 author = "rikzy75"
 version = "13.2.0-beta.4"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd45cb2d435bd70a4c0e509c0e1cefed18d358352fae156fc3d9b24f7b2f1f07"
+hash = "bc9fb945fe12d9deba5591f6bd19b71a807ab50ecf757179a4ceaecc6e3887c6"
 
 [versions]
 fabric = "0.19.2"
