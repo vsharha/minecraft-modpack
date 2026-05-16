@@ -302,6 +302,11 @@ hash = "5aeba8e846251b85f54c3298816a450d97f554e7bbfcec11a33ae3a0181bd26e"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
@@ -347,6 +352,16 @@ hash = "e17ad2d214021837ae4c8be4fe0a690e601a75876af402cc8dae888f00f298af"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "7d451a2a4386390ce9f4b493c3806c8d173d7970bca72c82de4b668c6914f25f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "40ea7513ea7b648ad4fc392d549d52d3764ec87ee0b864c42f87e3a67a6356eb"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
@@ -364,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "2c08bbdf7dc74bb0c6775311ecca268dae129e4573a2102a651da48fa4fe311d"
 metafile = true
 
 [[files]]
@@ -417,8 +437,18 @@ hash = "134f658f6ff7af1e44910973f44c6193a31002532baaed92eb7873d2ada6d636"
 metafile = true
 
 [[files]]
+file = "mods/simple-music-control.pw.toml"
+hash = "e521f1b3cdd28fbc83bddf37287ff0d7f14087658795cd2d1b4dfb06ebc43a86"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "20257162650c1b71e2967f6bfb92c28f32e810d666837fdcf9240474559f8d96"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "58d7b1139f541b435ee5a35c123c67d983520c34d5b6baa7765ee6483bde367c"
 metafile = true
 
 [[files]]
