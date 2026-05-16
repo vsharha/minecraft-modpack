@@ -177,6 +177,10 @@ file = "config/modpack_defaults/options.txt"
 hash = "d41c583878ad715ec963135458283f092af3aa8f8d1449a347e1b66c2d8747ff"
 
 [[files]]
+file = "config/sleepwarp.json"
+hash = "889cb60f5c608f9c7002018d5709465fef0716ee0e32067b46b79751918daa1f"
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "a680318e333045cc04c77af3ef925cc3059c7ad65613b423c5271dbb3fd90826"
 metafile = true
