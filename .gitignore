@@ -6,6 +6,7 @@ packwiz-installer.jar
 # Local exports and launcher/runtime output.
 *.mrpack
 *.zip
+!resourcepacks/*.zip
 run/
 .minecraft/
 logs/
