@@ -242,6 +242,11 @@ hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "e7eba9fffaf3aa581ce4742c42f8044b490cfff2268547e23dab8a6a332d84b5"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
 metafile = true
