@@ -432,11 +432,6 @@ hash = "cd028f3e8551c63268306ae679bbfa6d6a5d7a22e29853773bbb31e78100fbbb"
 metafile = true
 
 [[files]]
-file = "mods/serversleep.pw.toml"
-hash = "134f658f6ff7af1e44910973f44c6193a31002532baaed92eb7873d2ada6d636"
-metafile = true
-
-[[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "e521f1b3cdd28fbc83bddf37287ff0d7f14087658795cd2d1b4dfb06ebc43a86"
 metafile = true
@@ -447,8 +442,8 @@ hash = "20257162650c1b71e2967f6bfb92c28f32e810d666837fdcf9240474559f8d96"
 metafile = true
 
 [[files]]
-file = "mods/sleep-warp-updated.pw.toml"
-hash = "85e59fd28d93f7a11d5f089c3c73942e89625e0efd3028cad1fa7a6d9c670fc7"
+file = "mods/sleep.pw.toml"
+hash = "34cc3b3e097619acda36d9acec784a8b74ca2fb0d3434081da844251b2e09415"
 metafile = true
 
 [[files]]
