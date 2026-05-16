@@ -441,6 +441,11 @@ hash = "9843eed4c125f63f46d4156d97255674dfb05811c4c51111d339116697625089"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "6cabcc01bd1bfe66b2aec5c55b6af5501cf890f82b164f86771fb43325733c18"
+metafile = true
+
+[[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "e521f1b3cdd28fbc83bddf37287ff0d7f14087658795cd2d1b4dfb06ebc43a86"
 metafile = true
