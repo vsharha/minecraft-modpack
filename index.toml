@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "PENDING.md"
-hash = "1e733331fce24a16ea3af5efafcf2b0f2894194bd37d26f9be92b421837bd110"
+hash = "ff54d35533f3b04f1149ec1b51a9bdec3ce8dca64c7c3a447985f96d6c6c3e44"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -237,7 +237,7 @@ hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
 metafile = true
 
 [[files]]
-file = "mods/crash_assistant.pw.toml"
+file = "mods/crash-assistant.pw.toml"
 hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
 metafile = true
 
@@ -254,21 +254,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "865ee3da70da1671c3797b1cc87cff689e1c01e74f8dbf0c646d63722209c5df"
-metafile = true
-
-[[files]]
-file = "mods/entity_model_features.pw.toml"
-hash = "c85191b0b28301b6530a58137a1776214ae7734396f01ddac4859d432d36f58b"
-metafile = true
-
-[[files]]
-file = "mods/entity_texture_features.pw.toml"
-hash = "8cb378c048952e27f238c4dfd9b3a7657ac7fd18455022727a31d2b24e7e39e4"
 metafile = true
 
 [[files]]
@@ -383,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "2c08bbdf7dc74bb0c6775311ecca268dae129e4573a2102a651da48fa4fe311d"
+hash = "d120897898b8669444214af0e10fcd9b341234038a2a6772e7033ad982819983"
 metafile = true
 
 [[files]]
@@ -448,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-warp-updated.pw.toml"
-hash = "58d7b1139f541b435ee5a35c123c67d983520c34d5b6baa7765ee6483bde367c"
+hash = "85e59fd28d93f7a11d5f089c3c73942e89625e0efd3028cad1fa7a6d9c670fc7"
 metafile = true
 
 [[files]]
