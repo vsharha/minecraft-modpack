@@ -221,6 +221,11 @@ hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "11f06d18265fc77d31cb0f9acf1bdf6533f2bf2e89e301e640076753ba62a485"
 metafile = true
@@ -517,6 +522,11 @@ hash = "4c5fb2ac89b9df886db3feb77d4c315630126766cf5645a2af995f08ddcebf6c"
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
 hash = "2bd1d24982a048c0029a4dc93b7898eda91ed254a84571df2275bc3931475c65"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-vanilla-gui.pw.toml"
+hash = "0cfe7427c55041dc7a12f42b6b23099a7c0d196b990f382f4ae8326515cd0d4c"
 metafile = true
 
 [[files]]
