@@ -177,10 +177,6 @@ file = "config/modpack_defaults/options.txt"
 hash = "d41c583878ad715ec963135458283f092af3aa8f8d1449a347e1b66c2d8747ff"
 
 [[files]]
-file = "config/sleepwarp.json"
-hash = "889cb60f5c608f9c7002018d5709465fef0716ee0e32067b46b79751918daa1f"
-
-[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "a680318e333045cc04c77af3ef925cc3059c7ad65613b423c5271dbb3fd90826"
 metafile = true
@@ -276,8 +272,18 @@ hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6c2f5d0b6229451159ab5d44c1b38954dc0236b94388b6e0ac174b5475cd2135"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7e6330bc5d72ec19e7b8f5ded129e02e85b1106ea497eb4499062f4ff808f78c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "93be568ffd5908e1991054d273d0d008204afe55a53714bff471719d32dcbb5d"
 metafile = true
 
 [[files]]
@@ -458,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "20257162650c1b71e2967f6bfb92c28f32e810d666837fdcf9240474559f8d96"
-metafile = true
-
-[[files]]
-file = "mods/sleep-warp-updated.pw.toml"
-hash = "58d7b1139f541b435ee5a35c123c67d983520c34d5b6baa7765ee6483bde367c"
 metafile = true
 
 [[files]]
