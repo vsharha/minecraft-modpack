@@ -541,11 +541,6 @@ hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
 
 [[files]]
-file = "resourcepacks/tras-fresh-player.pw.toml"
-hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
