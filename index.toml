@@ -462,6 +462,11 @@ hash = "e521f1b3cdd28fbc83bddf37287ff0d7f14087658795cd2d1b4dfb06ebc43a86"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "2b2636a49df9b5017b336aadf8b6580a0574e4a3663fffcb563b91be89766809"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "20257162650c1b71e2967f6bfb92c28f32e810d666837fdcf9240474559f8d96"
 metafile = true
