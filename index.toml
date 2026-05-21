@@ -197,11 +197,6 @@ hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
-file = "mods/betterblockentities.pw.toml"
-hash = "70840a6fafda10a17218ed11bfb2574af2d7ac06c3ce8f611e7d41517783be26"
-metafile = true
-
-[[files]]
 file = "mods/bettergrass.pw.toml"
 hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
 metafile = true
@@ -219,11 +214,6 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
-metafile = true
-
-[[files]]
-file = "mods/bridging-mod.pw.toml"
-hash = "11f06d18265fc77d31cb0f9acf1bdf6533f2bf2e89e301e640076753ba62a485"
 metafile = true
 
 [[files]]
@@ -394,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "c750bccb4acc2461f0d666abe0f6268497c27131d2711628061e91911307678d"
+metafile = true
+
+[[files]]
+file = "mods/multi-key-bindings.pw.toml"
+hash = "bc61dcfd85529c155eadb32a00914bdf7f5d7de47fbcd4a78edbba4180b57e4e"
 metafile = true
 
 [[files]]
