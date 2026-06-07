@@ -1,0 +1,49 @@
+name: Release modpack
+
+# Push a version tag to build and publish the .mrpack, e.g.:
+#   git tag v1.1.0 && git push origin v1.1.0
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write # needed to create the release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Cache packwiz binary
+        id: cache-packwiz
+        uses: actions/cache@v4
+        with:
+          path: ~/go/bin/packwiz
+          # bump the suffix (-v1) to force a fresh packwiz build
+          key: packwiz-${{ runner.os }}-v1
+
+      # Go is only needed to build packwiz, so skip it entirely on a cache hit.
+      - name: Set up Go
+        if: steps.cache-packwiz.outputs.cache-hit != 'true'
+        uses: actions/setup-go@v5
+        with:
+          go-version: stable
+          cache: false # no go.sum in this repo; we cache the binary instead
+
+      - name: Install packwiz
+        if: steps.cache-packwiz.outputs.cache-hit != 'true'
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export Modrinth pack
+        run: |
+          echo "$HOME/go/bin" >> "$GITHUB_PATH"
+          "$HOME/go/bin/packwiz" modrinth export
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: "*.mrpack"
+          generate_release_notes: true
