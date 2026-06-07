@@ -37,13 +37,15 @@ jobs:
         if: steps.cache-packwiz.outputs.cache-hit != 'true'
         run: go install github.com/packwiz/packwiz@latest
 
+      # Export to a version-less filename so the same name is reused every
+      # release. That keeps the /releases/latest/download/ URL stable.
       - name: Export Modrinth pack
         run: |
           echo "$HOME/go/bin" >> "$GITHUB_PATH"
-          "$HOME/go/bin/packwiz" modrinth export
+          "$HOME/go/bin/packwiz" modrinth export -o Edinburgh.mrpack
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
-          files: "*.mrpack"
+          files: Edinburgh.mrpack
           generate_release_notes: true
