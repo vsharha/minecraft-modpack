@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "d70bf6e43a75165021bbc38dabc07628a5ba4db025e936eb634a48853f4945fe"
+
+[[files]]
 file = "PENDING.md"
 hash = "b678663d89c54c87da776f836faf525e5ebead76d82e314474f7052f98a471b8"
 
@@ -174,7 +178,7 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "d41c583878ad715ec963135458283f092af3aa8f8d1449a347e1b66c2d8747ff"
+hash = "78eade7d1a5ecc1374b2f43288958103ae58f6c1226371bbc2aa8cea60f28aa8"
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
