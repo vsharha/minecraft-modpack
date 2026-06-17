@@ -1,12 +1,12 @@
 name = "Edinburgh"
 author = "rikzy75"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d17dd5c92479326e633794f2baca1e86982b20d1a488ee6556e724700cd78533"
+hash = "8ef96b82dc1d32af88c19c563aec2988e43954e37a7033cf1f06d1e547cb574d"
 
 [versions]
 fabric = "0.19.2"
