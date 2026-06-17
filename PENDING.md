@@ -6,8 +6,6 @@ Mods waiting on a 26.1.2-compatible release.
 
 | Mod                     | Slug                    |
 | ----------------------- | ----------------------- |
-| Entity Texture Features | `entitytexturefeatures` |
-| Entity Model Features   | `entity_model_features` |
 | Durability Tooltip      | `durability-tooltip`    |
 | Immersive UI            | `immersive-ui`          |
 | Model Gap Fix           | `modelfix`              |
