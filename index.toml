@@ -201,6 +201,11 @@ hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
+file = "mods/auto-clicker.pw.toml"
+hash = "52ee58a65e46aee081a388de71c1228c1b226f2bff3d4ae16f488702daa48d2a"
+metafile = true
+
+[[files]]
 file = "mods/bettergrass.pw.toml"
 hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "b4cfd65678e2d07489b41aefc2e126baad29deb4b7e093cbb2116b3c45caa60d"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "9d87690aab9b299e25bc37c3c55bbf433d706c0f222e7c17ce72a77035dc84ed"
 metafile = true
 
 [[files]]
